@@ -1,0 +1,7 @@
+Nombre  : José
+Apellido: Pérez
+Legajo  : 000-001
+Empleado de Gerencia
+Salario : $45000
+******************
+

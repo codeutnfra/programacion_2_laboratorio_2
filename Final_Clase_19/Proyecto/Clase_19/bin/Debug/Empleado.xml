@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Empleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>José</Nombre>
+  <Apellido>Pérez</Apellido>
+  <Legajo>000-001</Legajo>
+  <Salario>45000</Salario>
+</Empleado>
