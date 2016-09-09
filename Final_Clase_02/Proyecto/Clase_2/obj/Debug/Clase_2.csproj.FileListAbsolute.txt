@@ -1,0 +1,15 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.exe.config
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.exe
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\bin\Debug\Clase_2.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.exe
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_2\obj\Debug\Clase_2.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_2\Clase_2\bin\Debug\Clase_2.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_2\Clase_2\obj\Debug\Clase_2.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_2\Clase_2\obj\Debug\Clase_2.pdb
