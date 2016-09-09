@@ -1,0 +1,4 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_11_Library\obj\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_11_Library\obj\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_11_Library\bin\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_11_Library\bin\Debug\Clase_10_Library.pdb
