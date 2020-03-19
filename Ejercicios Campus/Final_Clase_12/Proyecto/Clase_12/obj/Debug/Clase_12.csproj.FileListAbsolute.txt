@@ -1,0 +1,9 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.exe
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.pdb

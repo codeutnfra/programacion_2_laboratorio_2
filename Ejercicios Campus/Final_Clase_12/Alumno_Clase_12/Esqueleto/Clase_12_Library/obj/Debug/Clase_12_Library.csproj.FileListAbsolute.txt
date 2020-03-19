@@ -1,0 +1,13 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_12_Errores", "Clase_12\Clase_12_Errores.csproj", "{13B0863B-A601-499C-B3FF-1C85F947FE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_12_Library", "Clase_12_Library\Clase_12_Library.csproj", "{BCBA4D97-A8D6-4BDE-A5FF-1D103B0D0C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B0863B-A601-499C-B3FF-1C85F947FE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B0863B-A601-499C-B3FF-1C85F947FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B0863B-A601-499C-B3FF-1C85F947FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B0863B-A601-499C-B3FF-1C85F947FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBA4D97-A8D6-4BDE-A5FF-1D103B0D0C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBA4D97-A8D6-4BDE-A5FF-1D103B0D0C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBA4D97-A8D6-4BDE-A5FF-1D103B0D0C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBA4D97-A8D6-4BDE-A5FF-1D103B0D0C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

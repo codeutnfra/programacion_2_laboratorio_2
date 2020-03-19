@@ -1,0 +1,12 @@
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\bin\Debug\Clase_15.exe.config
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\bin\Debug\Clase_15.exe
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\bin\Debug\Clase_15.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\obj\Debug\Clase_15.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\obj\Debug\Clase_15.exe
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_15\obj\Debug\Clase_15.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\bin\Debug\Clase_15.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\obj\Debug\Clase_15.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\obj\Debug\Clase_15.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\bin\Debug\Clase_15.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\bin\Debug\Clase_15.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_15\Clase_15\obj\Debug\Clase_15.csprojResolveAssemblyReference.cache

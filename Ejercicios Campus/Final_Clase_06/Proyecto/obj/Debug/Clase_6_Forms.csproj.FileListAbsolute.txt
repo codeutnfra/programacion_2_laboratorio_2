@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.Form1.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.exe.config
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.exe
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.exe
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\bin\Debug\Clase_6_Forms.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.frmStrings.resources
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.Properties.Resources.resources
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_6_Forms\obj\Debug\Clase_6_Forms.csproj.GenerateResource.Cache

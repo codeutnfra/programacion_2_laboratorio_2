@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\bin\Debug\Clase_1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\bin\Debug\Clase_1.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\bin\Debug\Clase_1.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\obj\Debug\Clase_1.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\obj\Debug\Clase_1.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_1\obj\Debug\Clase_1.pdb
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_1\bin\Debug\Clase_1.exe.config
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_1\obj\Debug\Clase_1.exe
+C:\Users\alumno.LAB5PC03\Downloads\Clases\Clase_1\Clase_1\obj\Debug\Clase_1.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_1\Clase_1\bin\Debug\Clase_1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_1\Clase_1\obj\Debug\Clase_1.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_1\Clase_1\obj\Debug\Clase_1.pdb

@@ -1,5 +1,0 @@
-D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.csprojResolveAssemblyReference.cache
-D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\bin\Debug\Clase_17_Library.dll
-D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\bin\Debug\Clase_17_Library.pdb
-D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.dll
-D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_17_Library\obj\Debug\Clase_17_Library.pdb
