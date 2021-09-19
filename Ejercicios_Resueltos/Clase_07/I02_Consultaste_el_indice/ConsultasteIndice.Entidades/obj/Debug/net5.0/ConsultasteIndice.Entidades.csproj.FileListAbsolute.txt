@@ -1,0 +1,11 @@
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\bin\Debug\net5.0\ConsultasteIndice.Entidades.deps.json
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\bin\Debug\net5.0\ConsultasteIndice.Entidades.dll
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\bin\Debug\net5.0\ref\ConsultasteIndice.Entidades.dll
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\bin\Debug\net5.0\ConsultasteIndice.Entidades.pdb
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.AssemblyInfo.cs
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.dll
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ref\ConsultasteIndice.Entidades.dll
+C:\Users\lauta\source\repos\I02\ConsultasteIndice.Entidades\obj\Debug\net5.0\ConsultasteIndice.Entidades.pdb

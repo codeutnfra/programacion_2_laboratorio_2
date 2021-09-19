@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsultasteIndice.Consola/1.0.0": {
+        "dependencies": {
+          "ConsultasteIndice.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "ConsultasteIndice.Consola.dll": {}
+        }
+      },
+      "ConsultasteIndice.Entidades/1.0.0": {
+        "runtime": {
+          "ConsultasteIndice.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultasteIndice.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsultasteIndice.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

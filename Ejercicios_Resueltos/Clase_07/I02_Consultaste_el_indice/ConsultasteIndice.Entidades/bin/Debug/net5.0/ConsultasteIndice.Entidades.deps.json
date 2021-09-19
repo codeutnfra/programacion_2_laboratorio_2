@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsultasteIndice.Entidades/1.0.0": {
+        "runtime": {
+          "ConsultasteIndice.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultasteIndice.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
