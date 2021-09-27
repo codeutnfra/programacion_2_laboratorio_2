@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca/Biblioteca.csproj",
+      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Biblioteca >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mauri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.La.Libreria\\Vista\\Vista.csproj",
+      "projectName": "Vista",
+      "projectPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.La.Libreria\\Vista\\Vista.csproj",
+      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.La.Libreria\\Vista\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.La.Libreria\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.La.Libreria\\Biblioteca\\Biblioteca.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\mauri\source\repos\Primer.Parcial.Dispositivo\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
