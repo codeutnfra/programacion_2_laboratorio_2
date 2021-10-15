@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {
-      "Biblioteca/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Biblioteca.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Biblioteca.dll": {}
-        }
-      }
-    }
+    "net5.0-windows7.0": {}
   },
-  "libraries": {
-    "Biblioteca/1.0.0": {
-      "type": "project",
-      "path": "../Biblioteca/Biblioteca.csproj",
-      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": [
-      "Biblioteca >= 1.0.0"
-    ]
+    "net5.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\mauri\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
-      "projectName": "Vista",
-      "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
+      "projectUniqueName": "C:\\Repositories\\programacion_2_laboratorio_2\\Cascaras\\Clase_14\\I01_Un_DNI_para_mi_compu\\Presentacion\\Presentacion.csproj",
+      "projectName": "Presentacion",
+      "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Cascaras\\Clase_14\\I01_Un_DNI_para_mi_compu\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\obj\\",
+      "outputPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Cascaras\\Clase_14\\I01_Un_DNI_para_mi_compu\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {
-            "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -86,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

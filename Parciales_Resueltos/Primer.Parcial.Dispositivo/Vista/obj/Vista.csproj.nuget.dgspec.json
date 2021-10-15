@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj": {}
+    "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj": {
+    "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
+        "projectUniqueName": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
+        "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\Vista.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Vista\\obj\\",
+        "outputPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Vista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\mauri\\source\\repos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Parciales_Resueltos\\Primer.Parcial.Dispositivo\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
