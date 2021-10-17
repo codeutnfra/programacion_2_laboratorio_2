@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repositories\\programacion_2_laboratorio_2\\Ejercicios_Resueltos\\Clase_14\\I01_El_Parseador\\Presentacion\\Presentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositories\\programacion_2_laboratorio_2\\Ejercicios_Resueltos\\Clase_14\\I01_El_Parseador\\Presentacion\\Presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositories\\programacion_2_laboratorio_2\\Ejercicios_Resueltos\\Clase_14\\I01_El_Parseador\\Presentacion\\Presentacion.csproj",
+        "projectName": "Presentacion",
+        "projectPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Ejercicios_Resueltos\\Clase_14\\I01_El_Parseador\\Presentacion\\Presentacion.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositories\\programacion_2_laboratorio_2\\Ejercicios_Resueltos\\Clase_14\\I01_El_Parseador\\Presentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
