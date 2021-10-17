@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Biblioteca.GestionImpuestos">
+    <Position X="6" Y="2.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEAAAAAAAAAAAAAgAAAAACAAAAAAAAAAABA=</HashCode>
+      <FileName>GestionImpuestos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
