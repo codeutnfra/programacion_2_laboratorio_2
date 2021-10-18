@@ -10,12 +10,12 @@ namespace Vista
         static void Main(string[] args)
         {
             List<Paquete> paquetes = new List<Paquete>();
-            paquetes.Add(new PaqueteFragil("F01", 190.00M, "Buenos aires", "La rioja", 175.30));
-            paquetes.Add(new PaquetePesado("P01", 2598.63M, "Misiones", "San luis", 5698.32));
-            paquetes.Add(new PaqueteFragil("F02", 1599.99M, "Córdoba", "Mendoza", 4421.12));
-            paquetes.Add(new PaquetePesado("P02", 639.60M, "Jujuy", "Tierra del fuego", 500.05));
-            paquetes.Add(new PaqueteFragil("F03", 458.95M, "Santa cruz", "San Juan", 1000.00));
-            paquetes.Add(new PaquetePesado("P03", 120.40M, "Río negro", "Neuquén", 350.00));
+            paquetes.Add(new PaqueteFragil("F01", 190.00M, "Buenos aires", "La rioja", 1.75));
+            paquetes.Add(new PaquetePesado("P01", 2598.63M, "Misiones", "San luis", 56.32));
+            paquetes.Add(new PaqueteFragil("F02", 1599.99M, "Córdoba", "Mendoza", 44.12));
+            paquetes.Add(new PaquetePesado("P02", 639.60M, "Jujuy", "Tierra del fuego", 5.05));
+            paquetes.Add(new PaqueteFragil("F03", 458.95M, "Santa cruz", "San Juan", 10.00));
+            paquetes.Add(new PaquetePesado("P03", 120.40M, "Río negro", "Neuquén", 35.00));
 
             GestionImpuestos gestionImpuestos = new GestionImpuestos();
             gestionImpuestos.RegistrarImpuestos(paquetes);
