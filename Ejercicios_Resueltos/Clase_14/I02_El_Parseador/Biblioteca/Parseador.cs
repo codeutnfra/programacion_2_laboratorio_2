@@ -20,7 +20,7 @@ namespace Biblioteca
 
         }
 
-        private static void VerificarDirectorio(string directorio)
+        private static void VerificarSiExisteDirectorio(string directorio)
         {
             if ()
         }
