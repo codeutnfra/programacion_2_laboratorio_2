@@ -64,16 +64,6 @@ namespace Formulario
             }
         }
 
-        private void MostrarMensajeDeError(Exception ex)
-        {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendLine(ex.Message);
-            stringBuilder.AppendLine();
-            stringBuilder.AppendLine(ex.StackTrace);
-
-            MessageBox.Show(stringBuilder.ToString(), "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        }
-
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             AgregarElemento();
@@ -171,6 +161,16 @@ namespace Formulario
                     MostrarMensajeDeError(ex);
                 }
             }
+        }
+
+        private void MostrarMensajeDeError(Exception ex)
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.AppendLine(ex.Message);
+            stringBuilder.AppendLine();
+            stringBuilder.AppendLine(ex.StackTrace);
+
+            MessageBox.Show(stringBuilder.ToString(), "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
     }
 }
