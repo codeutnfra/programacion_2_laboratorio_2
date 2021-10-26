@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IO;
+using System;
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
@@ -10,6 +11,9 @@ namespace Presentacion
         private OpenFileDialog openFileDialog;
         private SaveFileDialog saveFileDialog;
         private string ultimoArchivo;
+        private PuntoJson<string> puntoJson;
+        private PuntoXml<string> puntoXml;
+        private PuntoTxt puntoTxt;
 
         private string UltimoArchivo
         {
@@ -30,8 +34,12 @@ namespace Presentacion
         {
             InitializeComponent();
             openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Archivo de texto|*.txt|Archivo JSON|*.json|Archivo XML|*.xml";
             saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "Archivo de texto|*.txt";
+            saveFileDialog.Filter = "Archivo de texto|*.txt|Archivo JSON|*.json|Archivo XML|*.xml";
+            puntoJson = new PuntoJson<string>();
+            puntoXml = new PuntoXml<string>();
+            puntoTxt = new PuntoTxt();
         }
 
         private void FrmNotepad_Load(object sender, EventArgs e)
@@ -43,11 +51,22 @@ namespace Presentacion
         {
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
+                ultimoArchivo = openFileDialog.FileName;
+
                 try
                 {
-                    ultimoArchivo = openFileDialog.FileName;
-                    using StreamReader streamReader = new StreamReader(ultimoArchivo);
-                    rtxtContenido.Text = streamReader.ReadToEnd();
+                    switch (Path.GetExtension(UltimoArchivo))
+                    {
+                        case ".json":
+                            rtxtContenido.Text = puntoJson.Leer(UltimoArchivo);
+                            break;
+                        case ".xml":
+                            rtxtContenido.Text = puntoXml.Leer(UltimoArchivo);
+                            break;
+                        case ".txt":
+                            rtxtContenido.Text = puntoTxt.Leer(UltimoArchivo);
+                            break;
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -58,19 +77,67 @@ namespace Presentacion
 
         private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            UltimoArchivo = SeleccionarUbicacionGuardado();
-             
-            GuardarArchivo(UltimoArchivo);
+            GuardarComo();
         }
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (!File.Exists(UltimoArchivo))
             {
-                UltimoArchivo = SeleccionarUbicacionGuardado();
+                GuardarComo();
             }
+            else
+            {
+                Guardar();
+            }
+        }
 
-            GuardarArchivo(UltimoArchivo);
+        private void GuardarComo()
+        {
+            UltimoArchivo = SeleccionarUbicacionGuardado();
+
+            try
+            {
+                switch (Path.GetExtension(UltimoArchivo))
+                {
+                    case ".json":
+                        puntoJson.GuardarComo(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                    case ".xml":
+                        puntoXml.GuardarComo(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                    case ".txt":
+                        puntoTxt.GuardarComo(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                }
+            }
+            catch (Exception ex)
+            {
+                MostrarVentanaDeError(ex);
+            }
+        }
+
+        private void Guardar()
+        {
+            try
+            {
+                switch (Path.GetExtension(UltimoArchivo))
+                {
+                    case ".json":
+                        puntoJson.Guardar(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                    case ".xml":
+                        puntoXml.Guardar(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                    case ".txt":
+                        puntoTxt.Guardar(UltimoArchivo, rtxtContenido.Text);
+                        break;
+                }
+            }
+            catch (Exception ex)
+            {
+                MostrarVentanaDeError(ex);
+            }
         }
 
         private string SeleccionarUbicacionGuardado()
@@ -81,22 +148,6 @@ namespace Presentacion
             }
 
             return string.Empty;
-        }
-
-        private void GuardarArchivo(string ruta)
-        {
-            try
-            {
-                if (!string.IsNullOrWhiteSpace(ruta))
-                {
-                    using StreamWriter streamWriter = new StreamWriter(ultimoArchivo);
-                    streamWriter.Write(rtxtContenido.Text);
-                }
-            }
-            catch (Exception ex)
-            {
-                MostrarVentanaDeError(ex);
-            }
         }
 
         private void MostrarVentanaDeError(Exception ex)

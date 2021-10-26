@@ -2,8 +2,8 @@
 {
     public interface IArchivo<T>
     {
-        bool Guardar(string ruta, T objeto);
-        bool GuardarComo(string ruta, T objeto);
+        void Guardar(string ruta, T contenido);
+        void GuardarComo(string ruta, T contenido);
         T Leer(string ruta);
     }
 }
