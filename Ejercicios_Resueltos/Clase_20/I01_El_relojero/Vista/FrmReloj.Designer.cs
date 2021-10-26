@@ -33,6 +33,8 @@ namespace Vista
             this.lblHora = new System.Windows.Forms.Label();
             this.rtxtContenido = new System.Windows.Forms.RichTextBox();
             this.timer = new System.Windows.Forms.Timer(this.components);
+            this.btnDetenerReloj = new System.Windows.Forms.Button();
+            this.btnIniciarReloj = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblHora
@@ -61,11 +63,35 @@ namespace Vista
             this.timer.Interval = 1000;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
+            // btnDetenerReloj
+            // 
+            this.btnDetenerReloj.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnDetenerReloj.Location = new System.Drawing.Point(627, 10);
+            this.btnDetenerReloj.Name = "btnDetenerReloj";
+            this.btnDetenerReloj.Size = new System.Drawing.Size(161, 23);
+            this.btnDetenerReloj.TabIndex = 2;
+            this.btnDetenerReloj.Text = "Detener reloj";
+            this.btnDetenerReloj.UseVisualStyleBackColor = true;
+            this.btnDetenerReloj.Click += new System.EventHandler(this.btnDetenerReloj_Click);
+            // 
+            // btnIniciarReloj
+            // 
+            this.btnIniciarReloj.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnIniciarReloj.Location = new System.Drawing.Point(460, 10);
+            this.btnIniciarReloj.Name = "btnIniciarReloj";
+            this.btnIniciarReloj.Size = new System.Drawing.Size(161, 23);
+            this.btnIniciarReloj.TabIndex = 3;
+            this.btnIniciarReloj.Text = "Iniciar reloj";
+            this.btnIniciarReloj.UseVisualStyleBackColor = true;
+            this.btnIniciarReloj.Click += new System.EventHandler(this.btnIniciarReloj_Click);
+            // 
             // FrmReloj
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnIniciarReloj);
+            this.Controls.Add(this.btnDetenerReloj);
             this.Controls.Add(this.rtxtContenido);
             this.Controls.Add(this.lblHora);
             this.Name = "FrmReloj";
@@ -81,6 +107,8 @@ namespace Vista
         private System.Windows.Forms.Label lblHora;
         private System.Windows.Forms.RichTextBox rtxtContenido;
         private System.Windows.Forms.Timer timer;
+        private System.Windows.Forms.Button btnDetenerReloj;
+        private System.Windows.Forms.Button btnIniciarReloj;
     }
 }
 
