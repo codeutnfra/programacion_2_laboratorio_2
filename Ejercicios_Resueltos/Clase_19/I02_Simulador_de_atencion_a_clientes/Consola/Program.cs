@@ -1,5 +1,7 @@
 ﻿
+using Biblioteca;
 using System;
+using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -7,21 +9,25 @@ class EjemploHilos
 {
     static void Main()
     {
-        Action accion = () =>
+        Caja.DelegadoClienteAtendido delegadoClienteAtendido = (caja, cliente) =>
         {
-            Thread.Sleep(new Random().Next(1000, 5000));
-            Console.WriteLine($"{DateTime.Now}: Task ID={Task.CurrentId}, Hilo secundario={Thread.CurrentThread.ManagedThreadId}");
+            Console.WriteLine($"{DateTime.Now:HH:MM:ss} - Hilo {Task.CurrentId} - {caja.NombreCaja} - Atendiendo a {cliente}. Quedan {caja.CantidadDeClientesALaEspera} clientes en esta caja.");
         };
 
-        // Instancia e inicia una tarea. Utilizando expresiones lambda.
-        Task tarea = Task.Run(accion);
-        Task otraTarea = Task.Run(accion);
+        Caja caja1 = new Caja("Caja 01", delegadoClienteAtendido);
+        Caja caja2 = new Caja("Caja 02", delegadoClienteAtendido);
 
-        Console.WriteLine($"{DateTime.Now}: Las tareas comenzaron a ejecutarse. Hilo principal={Thread.CurrentThread.ManagedThreadId}");
+        List<Caja> cajas = new List<Caja>()
+        {
+            caja1,
+            caja2
+        };
 
-        // Bloquea el hilo hasta que finaliza la tarea.
-        Task.WaitAll(tarea, otraTarea);
+        Negocio negocio = new Negocio(cajas);
 
-        Console.WriteLine($"{DateTime.Now}: Las tareas finalizaron. Hilo principal={Thread.CurrentThread.ManagedThreadId}");
+        Console.WriteLine("Asignando cajas...");
+        
+        List<Task> hilos = negocio.ComenzarAtencion();
+        Task.WaitAll(hilos.ToArray());
     }
 }
