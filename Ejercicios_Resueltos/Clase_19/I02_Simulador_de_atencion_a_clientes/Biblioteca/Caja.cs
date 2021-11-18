@@ -38,8 +38,8 @@ namespace Biblioteca
 
         public Caja(string nombreCaja, DelegadoClienteAtendido delegadoClienteAtendido)
         {
-            this.nombreCaja = nombreCaja;
             clientesALaEspera = new Queue<string>();
+            this.nombreCaja = nombreCaja;
             this.delegadoClienteAtendido = delegadoClienteAtendido;
 
         }
